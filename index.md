@@ -31,10 +31,10 @@ Transportation in American cities in 2050
 - Urbanization, more people wanting to move to cities (as opposed to small towns or suburbs)
 - Gentrification; neighborhoods rapidly changing character
 - Development of walkable neighborhoods
-- Climate change and necessity of eco-consciousness
+- Climate change increases, due to more greenhouse gases
 - General economic trends, unemployment
 - Technologies for digging tunnels
-- Amazon and other delivery companies
+- Amazon and other companies deliver more goods
 - Parking (or lack thereof)
 - Popularity/trendiness of alternative transport
 - "Knowledge economy" growing further
@@ -44,6 +44,9 @@ Transportation in American cities in 2050
 - Rise of religion's importance
 - Disease outbreaks
 - Bus tracking
+- Traffic congestion increases in cities
+- Traffic noise increases
+- Older people need mobility
 
 <img src="images/drivers_of_change.svg" />
 
@@ -54,6 +57,7 @@ Transportation in American cities in 2050
 - electric cars
 - alternative fuels
 - parking
+- traffic congestion
 
 Personal cars stay popular. The auto industry, which took a hit in the 00s, bounces back with fully electric cars for green-conscious consumers and self-driving cars. Parking remains an issue, but self-parking, smaller cars mean we can fit more in fewer spaces. They remain status symbols as well, but instead of BMW and Mercedes, hot brands are Google, Tesla, and Apple.
 
@@ -61,14 +65,15 @@ Personal cars stay popular. The auto industry, which took a hit in the 00s, boun
 - popularity of urban cycling
 - bike shares
 - walkable neighborhoods
+- traffic noise increases
 
-Millennials drive a systemic change towards biking. GPS trackers (like Lojack for bikes) reduce bike theft substantially, which means fancy bikes become higher-status items. City planners reorganize their cities to enable more biking and walking by centralizing things. Unfortunately, this also leads to increased prices in these highly-sought-after areas, which means poorer people are pushed farther out into suburbs where mobility is limited.
+Millennials drive a systemic change towards biking. They enjoy the lack of noise, exercise potential, outdoors lifestyle, and convenience. In addition, GPS trackers (like Lojack for bikes) reduce bike theft substantially, which means fancy bikes become more common and therefore higher-status items. City planners reorganize their cities to enable more biking and walking by centralizing things. Unfortunately, this also leads to increased prices in these highly-sought-after areas, which means poorer people are pushed farther out into suburbs where mobility is limited.
 
 #### Global decline
 - international conflicts
 - disease outbreaks
 - population growing older
-- climate change
+- climate change due to transport fuels
 
 The world is beset with crisis after crisis; money gets diverted toward defense, medicine, and environmental issues. As a result, cities are unable to improve their infrastructure. Public transit stagnates, and Americans need to divert income and energy to their cars and commutes. This causes the US to lose its edge economically.
 
@@ -108,7 +113,7 @@ Old fashioned "mass transit" falls apart, replaced by waves of on-demand taxis, 
 
 People have always clustered together into cities, but in this scenario, that clustering accelerates. Furthermore, the larger cities grow bigger, like rock candy crystals, while smaller cities shrink until they effectively disappear. Metropolitan centers like New York, San Francisco, and Chicago grow beyond 10 million, and a few "boutique" cities like Seattle and Boston grow into metropolises due to their multifaceted appeal. These cities are served by largely pay-as-you-go private services, including health care and transportation. Rich people continue to flock there, along with poorer people who hope to become rich. 
 
-Meanwhile, most people are stuck in smaller cities or towns that are floundering. Shrinking tax bases mean transit gets cut further, to the point where it's not even useful; bus systems in many cities are dismantled. The gap between urban and rural America grows wider, which further deadlocks the federal government.
+Meanwhile, most people are stuck in smaller cities or towns that are floundering. Shrinking tax bases mean transit gets cut further, to the point where it's not even useful; bus systems in many cities are dismantled. The gap between urban and rural America grows wider, which further deadlocks the federal government. 
 
 ### Leapfrog Cities
 
@@ -123,3 +128,7 @@ All fuels become so expensive, and people gain such a sense of the climate chang
 ### Urban sub-city sprawl
 
 As large cities grow out of control, and inter-city travel becomes easier, nearby cities with better quality of life begin to gain prominence. Denver/Boulder provide a good example, as do Chicago/Milwaukee and Detroit/Ann Arbor. Drawing a cue from China and Korea, the US government invests heavily, too, in revitalizing tiny cities and suburbs into purpose-built sub-cities within 100 miles of megacities. Unlike 20th century suburbs, these sub-cities are fully self-contained; few people commute from one to the other. But travel is easy, thanks to high-speed trains and bike paths, so it's easy for families to live between clusters of sub-cities. This situation gets people closer to nature and the food system as well. 
+
+## References
+
+- Mobility 2030: Meeting the challenges to sustainability. World Business Council for Sustainable Development, Full report 2004. http://www.wbcsd.org/web/publications/mobility/mobility-full.pdf

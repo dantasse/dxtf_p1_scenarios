@@ -96,7 +96,7 @@ Moving becomes much more frequent; owning a home becomes much less frequent. Nei
 - tunnel-boring technology
 - popularity of alternative transport
 - taxes
-- mass transit between cities
+- mass transit between cities - Amtrak and competitors
 
 Demand from rich young people, plus new tunnel-boring technology, causes subways to be constructed more widely, even when they're not necessarily the best solution. As a result, public transit loses popularity and funding stalls.
 
@@ -111,24 +111,37 @@ Old fashioned "mass transit" falls apart, replaced by waves of on-demand taxis, 
 
 ### Rock Candy World
 
-People have always clustered together into cities, but in this scenario, that clustering accelerates. Furthermore, the larger cities grow bigger, like rock candy crystals, while smaller cities shrink until they effectively disappear. Metropolitan centers like New York, San Francisco, and Chicago grow beyond 10 million, and a few "boutique" cities like Seattle and Boston grow into metropolises due to their multifaceted appeal. These cities are served by largely pay-as-you-go private services, including health care and transportation. Rich people continue to flock there, along with poorer people who hope to become rich. 
+People have always clustered together into cities, but in this business-as-usual scenario, that clustering accelerates. Furthermore, the larger cities grow bigger, like rock candy crystals, while smaller cities shrink until they effectively disappear. Metropolitan centers like New York, San Francisco, and Chicago grow beyond 10 million, and a few "boutique" cities like Seattle and Boston grow into metropolises due to their multifaceted appeal. These cities are served by largely pay-as-you-go private services, including health care and transportation. Rich people continue to flock there, along with poorer people who hope to become rich.
 
-Meanwhile, most people are stuck in smaller cities or towns that are floundering. Shrinking tax bases mean transit gets cut further, to the point where it's not even useful; bus systems in many cities are dismantled. The gap between urban and rural America grows wider, which further deadlocks the federal government. 
+Meanwhile, most people are stuck in smaller cities or towns that are floundering. Shrinking tax bases mean transit gets cut further, to the point where it's not even useful; bus systems in many cities are dismantled. After the Great Stagnation of the early 21st century, the gap between urban and rural America grows wider, which further deadlocks the federal government. 
 
 ### Leapfrog Cities
 
-Due to increased centralization and the massive rise in costs among large cities, along with technological advances, a new wave of small cities arises to combat the calcified giants. Leading the charge is the former Rust Belt, anchored by the "Silver Triangle" of Pittsburgh, Cleveland, and Columbus, and New York's I-90 Corridor of Buffalo, Syracuse, and Rochester. These cities, which never developed strong transit ecosystems, found ways to leapfrog over their lack of a subway with large fleets of autonomous, low-emission vehicles. Residents enjoy the permanent taxi service, low cost of living, temperate weather, lack of natural disasters, and friendly lifestyle. As a result, these cities become very popular for young people and entrepreneurs.
+Due to increased centralization and the massive rise in costs among large cities, along with technological advances, a new wave of small cities arises to combat the calcified giants. Coastal cities are also hit by the effects of climate change and the scarcity of nearby fresh water. Leading the charge is the former Rust Belt, anchored by the "Silver Triangle" of Pittsburgh, Cleveland, and Columbus, and New York's I-90 Corridor of Buffalo, Syracuse, and Rochester. These cities, which never developed strong transit ecosystems, found ways to leapfrog over their lack of a subway with large fleets of autonomous, low-emission vehicles. Residents enjoy the permanent taxi service, low cost of living, temperate weather, lack of natural disasters, and friendly lifestyle. As a result, these rapidly-transformed cities become very popular for young people and entrepreneurs.
 
 Large older powerhouses start to lose relevance. Money starts to be more evenly split between these small "leapfrog cities" and the coastal powerhouses. More richer people living in the interior makes for more balanced policy. Immigrants begin to be able to more fully use their abilities as well, so visas become easier to acquire.
+
+### The Age of Great Mini-Mobility
+
+As the 21st century progresses, large cities grow out of control, so Americans avoid moving there. Suburbs have proven to be a failure, but people still want the benefits of living in a comfortable city while being near an urban metropolis. Furthermore, long-distance travel grows more expensive, so people try to stay near their extended families.
+
+Medium-distance travel becomes easier due to two trends: electric cars and a restructuring of Amtrak. Electric cars begin to drive hundreds of miles at once, but recharging still takes time, so driving more than 200 miles becomes inconvenient. Government subsidies continue to make them cheaper as well. In addition, Amtrak's ridership continues to grow, but the long distance routes lose money, so Amtrak refocuses on shorter routes.
+
+As a result, people begin to flock to small cities near large urban centers. Denver/Boulder provide a good example, as do San Antonio/Austin and Detroit/Ann Arbor. Drawing a cue from China and Korea, the US government invests heavily, too, in revitalizing tiny cities and suburbs into sub-cities within 100 miles of megacities. Unlike 20th century suburbs, these sub-cities are fully self-contained; few people commute daily from one to the other, so there is a stronger sense of community. But travel is easy, so it's easy for families to live between clusters of sub-cities. People are able to customize their lives within these city clusters, while avoiding constant long-distance travel. This situation gets people closer to nature and the food system as well. 
+
+## Rejected scenario:
 
 ### Sticking Close to Home
 
 All fuels become so expensive, and people gain such a sense of the climate change impacts of their actions, that they stop traveling as much. Coast-to-coast travel, particularly, slows down, which leaves the populous west coast and east coast relatively isolated. Eventually the three West Coast states, with their culture increasingly strange from the rest of the country, attempt to secede. Like Scotland today, their motion fails, but the idea scares Washington enough to make sweeping liberalizing changes in government.
 
-### Urban sub-city sprawl
-
-As large cities grow out of control, and inter-city travel becomes easier, nearby cities with better quality of life begin to gain prominence. Denver/Boulder provide a good example, as do Chicago/Milwaukee and Detroit/Ann Arbor. Drawing a cue from China and Korea, the US government invests heavily, too, in revitalizing tiny cities and suburbs into purpose-built sub-cities within 100 miles of megacities. Unlike 20th century suburbs, these sub-cities are fully self-contained; few people commute from one to the other. But travel is easy, thanks to high-speed trains and bike paths, so it's easy for families to live between clusters of sub-cities. This situation gets people closer to nature and the food system as well. 
+I rejected this scenario because there seems to be little support for the idea that people would discipline themselves to avoid travel. It has to make economic sense. Furthermore, the West Coast secession seems unnecessarily farfetched. I built some of these ideas into The Age of Great Mini-Mobility above.
 
 ## References
 
-- Mobility 2030: Meeting the challenges to sustainability. World Business Council for Sustainable Development, Full report 2004. http://www.wbcsd.org/web/publications/mobility/mobility-full.pdf
+- Cowen, Tyler. Is Average Over in an Age of Great Stagnation? FFF Economic Liberty Lecture Series, https://www.youtube.com/watch?v=uMAmjsAKAO0.
+- DiPiazza Jr., S.A., Kreutzer, I., Mack, M., and Zaidi, M.A. Vision 2050: The New Agenda for Business. World Business Council for Sustainable Development
+- Drivers of Change: Urbanisation. http://www.driversofchange.com/urbanisation
+- Jaffe, Eric. A Chat with Amtrak's CEO on the state of U.S. Passenger Rail. http://www.citylab.com/politics/2014/10/a-chat-with-amtraks-ceo-on-the-state-of-us-passenger-rail/381538/
+- Mobility 2030: Meeting the challenges to sustainability. World Business Council for Sustainable Development, Full report 2004. <http://www.wbcsd.org/web/publications/mobility/mobility-full.pdf>
+- Shell New Lens Scenarios: A Shift in Perspective for a World in Transition. 2013.

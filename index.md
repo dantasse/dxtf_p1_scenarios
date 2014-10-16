@@ -127,7 +127,19 @@ As the 21st century progresses, large cities grow out of control, so Americans a
 
 Medium-distance travel becomes easier due to two trends: electric cars and a restructuring of Amtrak. Electric cars begin to drive hundreds of miles at once, but recharging still takes time, so driving more than 200 miles becomes inconvenient. Government subsidies continue to make them cheaper as well. In addition, Amtrak's ridership continues to grow, but the long distance routes lose money, so Amtrak refocuses on shorter routes.
 
-As a result, people begin to flock to small cities near large urban centers. Denver/Boulder provide a good example, as do San Antonio/Austin and Detroit/Ann Arbor. Drawing a cue from China and Korea, the US government invests heavily, too, in revitalizing tiny cities and suburbs into sub-cities within 100 miles of megacities. Unlike 20th century suburbs, these sub-cities are fully self-contained; few people commute daily from one to the other, so there is a stronger sense of community. But travel is easy, so it's easy for families to live between clusters of sub-cities. People are able to customize their lives within these city clusters, while avoiding constant long-distance travel. This situation gets people closer to nature and the food system as well. 
+As a result, people begin to flock to small cities near large urban centers. Denver/Boulder provide a good example, as do San Antonio/Austin and Detroit/Ann Arbor. Drawing a cue from China and Korea, the US government invests heavily, too, in revitalizing tiny cities and suburbs into sub-cities within 100 miles of megacities. Unlike 20th century suburbs, these sub-cities are fully self-contained; few people commute daily from one to the other, so there is a stronger sense of community. But travel is easy, so it's easy for families to live between clusters of sub-cities. People are able to customize their lives within these city clusters, while avoiding constant long-distance travel. This situation prevents the worst effects of sprawl, getting people closer to nature and the food system as well. 
+
+## Mood boards
+
+[pdf - 6mb](images/moodboards.pdf)
+
+## Reflections
+
+- New issues that arise include the effects on the elderly - I realized I mostly left them out of my mood boards. Also, these generally represent the successful, affluent side of society; I tried to portray both the "winners" and the "losers" in the first two boards, but these are only at the city level, not on the personal level.
+- What were you challenged by? Staying realistic while projecting out into the future. I find it easy to do either: predict something that will happen soon, or be completely sci-fi about it. It's difficult to create a plausible, but not guaranteed future.
+- What did you question? Whether I was investigating enough dimensions. I didn't want to oversimplify down to one dimension: "cities get bigger" or "cities get smaller". At the same time, it was a worthy dimension to investigate; it really shapes people's experience in many ways.
+- What did you do well? I came up with some interesting possibilities that include a lot of different forces. In addition, I started to get a sense of how these would feel; in the Rock Candy World, for example, the "successful" cities would include a lot of color and sky, while the "unsuccessful" cities would have more roads and brown.
+- What would you do differently? More research, I think. It'd be interesting to read a few books talking about forces of change in urbanism, and incorporate them all into these scenarios.
 
 ## Rejected scenario:
 
